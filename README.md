@@ -266,3 +266,14 @@ Praveen Naik
 # 📜 License
 
 This project is developed for educational and sustainability purposes.
+
+
+
+<img width="404" height="837" alt="Screenshot 2026-05-10 122342" src="https://github.com/user-attachments/assets/9a65183b-0ec2-419f-ae48-4f2f6b7d5da5" />
+<img width="387" height="831" alt="Screenshot 2026-05-10 122354" src="https://github.com/user-attachments/assets/afbdd9fd-4f0f-40cc-9f7f-dba7837d6fb5" />
+<img width="413" height="816" alt="Screenshot 2026-05-10 122408" src="https://github.com/user-attachments/assets/728b7295-dfe8-48cc-9162-d5900cda8e5b" />
+<img width="401" height="832" alt="Screenshot 2026-05-10 122309" src="https://github.com/user-attachments/assets/0d9d5058-971d-416b-8352-eb4afc816ae0" />
+
+
+
+
